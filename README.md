@@ -1,7 +1,7 @@
 mbentley/cs-engine-downloader
 =============================
 
-docker image to download the Docker CS engine RPMs for CentOS/RHEL 7, SUSE/SLES 12, and Ubuntu 14.04
+docker image to download the Docker CS engine DEBs or RPMs for CentOS/RHEL 7, SUSE/SLES 12, and Ubuntu 14.04
 based off of centos:7, jess/opensuse:12.3, and ubuntu:14.04
 
 To pull this image:
