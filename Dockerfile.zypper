@@ -1,4 +1,4 @@
-FROM jess/opensuse:12.3
+FROM dockercore/opensuse:12.3
 
 RUN (zypper -n in curl ca-certificates* &&\
   zypper -n in yum-utils &&\
